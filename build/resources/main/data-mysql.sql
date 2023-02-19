@@ -1,0 +1,10 @@
+insert into paintings (painting_id, title, year) values (1, 'Spider', 2002);
+insert into paintings (painting_id, title, year) values (2, 'My Crazy Life (Mi vida loca)', 2006);
+insert into paintings (painting_id, title, year) values (3, 'Escape From Tomorrow', 1993);
+insert into paintings (painting_id, title, year) values (4, 'Old Joy', 1994);
+insert into paintings (painting_id, title, year) values (5, 'Love Forbidden (Défense d''aimer)', 1986);
+insert into paintings (painting_id, title, year) values (6, 'Attack the Gas Station! (Juyuso seubgyuksageun)', 2011);
+insert into paintings (painting_id, title, year) values (7, 'Painless (Insensibles) ', 2005);
+insert into paintings (painting_id, title, year) values (8, 'This Is Spinal Tap', 2006);
+insert into paintings (painting_id, title, year) values (9, 'Smiling Lieutenant, The', 2003);
+insert into paintings (painting_id, title, year) values (10, 'Universal Soldier: The Return', 2009);
